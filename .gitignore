@@ -1,0 +1,723 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<HTML xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml"> 
+<HEAD>
+	<title>Can you get a liquor license in Boston?</title>
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8"/> 
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+	<meta name="apple-mobile-web-app-capable" content="no" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" /> 
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="Can you get a liquor license in Boston?"/>
+	<meta property="og:description" content="Basic potential liquor license client intake form"/>
+	<meta property="og:image" content=""/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="apple-touch-icon" href="http://www.qnamarkup.org/images/QnA_300.png"/> 
+	<link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+  	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  	<script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+</HEAD>
+<BODY BGCOLOR="#ffffff" BACKGROUND="" MARGINWIDTH="0" MARGINHEIGHT="0" onLoad="startAT('1');"><style>	
+	body {
+		font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	}
+
+	#rawmarkup{
+		display:none;
+	}
+	
+	#QandA img{
+		width:100%;
+	}
+
+	div.main{
+		min-width:300px;
+		max-width:650px;
+		margin: 0 auto;
+	padding:0 5px 0 5px;
+		}
+	div.frame{
+		float:left;
+		width:100%;
+		margin:5px 0 5px 0;
+	}
+	div.full{
+		float:left;
+		width:100%;
+	}
+	.button{
+		padding:8px;
+		margin:8px 0 0px 0;
+		width:100%;
+	}
+	div.question_text{
+		float:left;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		color:#ffffff;
+		min-width:30px;
+		background:#5489eb;
+		border-radius: 15px;
+		padding:10px 15px 14px 15px;
+		margin-right:45px;
+	}
+
+	div.question_text a:link, div.question_text a:hover, div.question_text a:active, div.question_text a:visited{ color:#e3fbfc; } 
+
+	div.question_arrow{
+		float:left; 
+		width: 0; 
+		height: 0; 
+		border-left: 5px solid transparent; 
+		border-right: 10px solid transparent; 
+		border-top: 15px solid #5489eb;
+		margin:0 20px;
+	}
+	div.ans_text{
+		float:right;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		color:#000000;
+		min-width:30px;
+		background:#eeeeee;
+		border-radius: 15px;
+		padding:10px 15px 14px 15px;
+		margin-left:45px;
+	}
+	div.ans_arrow{
+		float:right; 
+		width: 0; 
+		height: 0; 
+		border-left: 10px solid transparent; 
+		border-right: 5px solid transparent; 
+		border-top: 15px solid #eeeeee;
+		margin:0 20px;
+	}
+	div.choices{
+		float:left;
+		width:100%;
+		margin:15px 0 0 0;
+	}
+	div.credits{
+		float:left;
+		dispaly:none;
+		width:100%;
+		background:#eee;
+		margin:0px 0 15px 0;
+	}
+	div.credit_text{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		padding:4px 15px 10px 15px;
+	}
+	li.error{
+		list-style-type: none;
+		background:#ffdddd;
+		margin: 10px 0 0 0;
+		padding: 5px;
+	}
+
+	.qpad {
+		float:left;
+		padding:0 15px;
+	}
+
+	a.qabutton {
+		float:left;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		width:100%;
+		background: #eee;
+		border-radius: 8px;
+		padding:10px 0px 12px 0;
+		margin: 0 0 8px 0;
+		border: solid 1px #888;
+		text-align:left;
+		color: #000000;
+		text-decoration: none;
+	}
+
+	a.qabutton:hover, a.qabutton:active {
+		float:left;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		width:100%;
+		background: #ddd;
+		border-radius: 8px;
+		padding:10px 0px 12px 0;
+		margin: 0 0 8px 0;
+		border: solid 1px #888;
+		text-align:left;
+		color: #000000;
+		text-decoration: underline;
+	}
+	
+
+	div.xdiv {
+		float:left;
+		width:100%;
+		margin: 0 0 8px 0;
+		background: #eee;
+		border: solid 1px #888;
+		border-radius: 8px;
+	}	
+
+	input.xinput {
+		-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+		-moz-box-sizing: border-box;    /* Firefox, other Gecko */ 
+		box-sizing: border-box;         /* Opera/IE 8+ */
+		float:left;
+		width:100%;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		background: #fff;
+		border-top-left-radius: 8px;
+		border-top-right-radius: 8px;
+		padding:10px 10px 12px 10px;
+		border: solid 0px #888;
+		border-bottom: solid 1px #888;
+		text-align:left;
+		color: #000000;
+		text-decoration: none;
+	}
+	
+	a.xbutton {
+		float:left;
+		width:100%;
+		text-align:left;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 14px;
+		line-height: 20px;
+		background: #eee;
+		border-radius: 8px;
+		padding:10px 0px 12px 0px;
+		color: #000000;
+		text-decoration: none;
+	}
+	
+	a.xbutton:hover, a.xbutton:active {
+		border-top-left-radius: 0px;
+		border-top-right-radius: 0px;
+		background: #ddd;
+	}
+</style>
+<FORM name="FORM" id="FORM"><div id="conversation" style="margin:15px auto 0 auto;padding:0 15px;max-width:500px"><div id='QandA' class='QandA'><div style='padding:15px;background:#ddffdd;text-align:center;'>Loading QnA...</div></div><div id='Choices' class='choices'></div><div id='rawmarkup' style='display:none;'>Title:Can you get a liquor license in Boston?
+Author:N.Caezza
+Description:Basic potential liquor license client intake form
+
+Q(1):Do you want a liquor license?
+A:Yes
+	Q(1.1):Do you have an entity to hold the license as licensee (Corporation, LLC, Partnership etc.)?
+	A: Yes
+		Q(1.1.1):Is your entity registered to do business in Massachusetts as either a domestic or foreign entity?
+		A: Yes
+			Q(1.1.1.1):Are you up to date on your taxes to the Department of Revenue?
+			A: Yes
+				Q(1.1.1.1.1):Do you have a lease or deed to the premises you intend to use?
+				A:Yes
+					Q(1.1.1.1.1.1):Do you have floor plans of the premises?
+					A: Yes
+						Q(1.1.1.1.1.1.1):Do you know which individuals will hold a beneficial interest in the License?
+						A:Yes
+							Q(1.1.1.1.1.1.1.1):Have each individual fill out the following forms: &lt;a href="http://www.mass.gov/abcc/pdf/coriform.pdf"&gt; ABCC CORI&lt;/a&gt;; &lt;a href="http://www.mass.gov/abcc/pdf/forms/personalinfoform.pdf"&gt; ABCC Personal Information Form &lt;/a&gt;;&lt;a href="http://www.cityofboston.gov/images_documents/Criminal%20Record%20Information%20Form_fillable_tcm3-19502.pdf"&gt; Boston Licensing Board CORI&lt;/a&gt;;&lt;a href="http://www.cityofboston.gov/images_documents/Personal%20Information%20Form%20Fillable%202013_tcm3-46630.pdf"&gt; Boston Licensing Board Personal Information Form &lt;/a&gt;
+							A:Everybody has filled out the forms, now what do I do?
+								Q(1.1.1.1.1.1.1.1.1):&lt;a href="http://www.mass.gov/abcc/pdf/forms/retail/reta_new.pdf"&gt; Start filling out the ABCC Application!&lt;/a&gt;
+								A:Now you are almost ready to file your application for a liquor license, we suggest reaching out to an attorney to review your application and make sure you're all set,  &lt;a href="http://www.mqmllp.com/"&gt; maybe take a look at these guys &lt;/a&gt;
+						A:No
+							Q:You will need to ascertain which individuals will hold a beneficial interest in the License in order to file a completed application, please come back when you know for certain who these individuals and/or entities will be.
+					A:No
+						Q(1.1.1.1.1.1.2):You will need floor plans of the premises for a completed application.  You may neatly &lt;a href="http://www.abcya.com/abcya_paint.htm"&gt; draw your own plans &lt;/a&gt; or contact an architect to create plans for you.
+				A:No
+					Q(1.1.1.1.1.2):Do you own the premises?
+					A:Yes
+						Q(1.1.1.1.1.2.1):&lt;a href="http://www.masslandrecords.com/suffolk/"&gt;Search for your deed in the Suffolk County Registry of Deeds Database&lt;/a&gt;
+					A:No
+						Q(1.1.1.1.1.2.2):Do you have a signed letter of intent from the landlord?
+						A:No
+							Q(1.1.1.1.1.2.2.1):Looks like you and your landlord have some work to do, perhaps you should consider &lt;a href="http://mqmllp.com/"&gt; hiring an attorney to help draft a lease that works for you &lt;/a&gt;
+						A:Yes
+							Q(1.1.1.1.1.2.2.2):Great! You can file an application with a signed letter of intent, but you will need to get a signed lease before your application gets to the ABCC.
+							A:Now that I have this signed letter, can I get back to my application?
+								Q(1.1.1.1.1.2.2.2.1):GOTO:1.1.1.1.1.1
+			A:No/not sure/what are taxes?
+				Q(1.1.1.1.2):&lt;a href="http://www.mass.gov/dor/"&gt; Contact the Massachusetts Department of Revenue &lt;/a&gt;
+		A:No/not sure
+			Q(1.1.1.2):&lt;a href="http://www.sec.state.ma.us/cor/"&gt; Contact the Massachusetts Secretary of the Commonwealth&lt;/a&gt;
+	A:No
+		Q(1.1.2):&lt;a href="http://www.sec.state.ma.us/cor/"&gt; Contact the Massachusetts Secretary of the Commonwealth&lt;/a&gt;
+A:No
+	Q(1.2):Thanks for stopping by!</div><div id="ondeck" name="ondeck"><div id="doc" name="doc" style="display:none;"></div><div id='Q-1' name='Q-1' style='display:none;'>Do you want a liquor license?
+</div><div id='Q-1.1' name='Q-1.1' style='display:none;'>Do you have an entity to hold the license as licensee (Corporation, LLC, Partnership etc.)?
+</div><div id='Q-1.1.1' name='Q-1.1.1' style='display:none;'>Is your entity registered to do business in Massachusetts as either a domestic or foreign entity?
+</div><div id='Q-1.1.1.1' name='Q-1.1.1.1' style='display:none;'>Are you up to date on your taxes to the Department of Revenue?
+</div><div id='Q-1.1.1.1.1' name='Q-1.1.1.1.1' style='display:none;'>Do you have a lease or deed to the premises you intend to use?
+</div><div id='Q-1.1.1.1.1.1' name='Q-1.1.1.1.1.1' style='display:none;'>Do you have floor plans of the premises?
+</div><div id='Q-1.1.1.1.1.1.1' name='Q-1.1.1.1.1.1.1' style='display:none;'>Do you know which individuals will hold a beneficial interest in the License?
+</div><div id='Q-1.1.1.1.1.1.1.1' name='Q-1.1.1.1.1.1.1.1' style='display:none;'>Have each individual fill out the following forms: <a href="http://www.mass.gov/abcc/pdf/coriform.pdf"> ABCC CORI</a>; <a href="http://www.mass.gov/abcc/pdf/forms/personalinfoform.pdf"> ABCC Personal Information Form </a>;<a href="http://www.cityofboston.gov/images_documents/Criminal%20Record%20Information%20Form_fillable_tcm3-19502.pdf"> Boston Licensing Board CORI</a>;<a href="http://www.cityofboston.gov/images_documents/Personal%20Information%20Form%20Fillable%202013_tcm3-46630.pdf"> Boston Licensing Board Personal Information Form </a>
+</div><div id='Q-1.1.1.1.1.1.1.1.1' name='Q-1.1.1.1.1.1.1.1.1' style='display:none;'><a href="http://www.mass.gov/abcc/pdf/forms/retail/reta_new.pdf"> Start filling out the ABCC Application!</a>
+</div><div id='Q-1.1.1.1.1.1.1.2' name='Q-1.1.1.1.1.1.1.2' style='display:none;'>You will need to ascertain which individuals will hold a beneficial interest in the License in order to file a completed application, please come back when you know for certain who these individuals and/or entities will be.
+</div><div id='Q-1.1.1.1.1.1.2' name='Q-1.1.1.1.1.1.2' style='display:none;'>You will need floor plans of the premises for a completed application.  You may neatly <a href="http://www.abcya.com/abcya_paint.htm"> draw your own plans </a> or contact an architect to create plans for you.
+</div><div id='Q-1.1.1.1.1.2' name='Q-1.1.1.1.1.2' style='display:none;'>Do you own the premises?
+</div><div id='Q-1.1.1.1.1.2.1' name='Q-1.1.1.1.1.2.1' style='display:none;'><a href="http://www.masslandrecords.com/suffolk/">Search for your deed in the Suffolk County Registry of Deeds Database</a>
+</div><div id='Q-1.1.1.1.1.2.2' name='Q-1.1.1.1.1.2.2' style='display:none;'>Do you have a signed letter of intent from the landlord?
+</div><div id='Q-1.1.1.1.1.2.2.1' name='Q-1.1.1.1.1.2.2.1' style='display:none;'>Looks like you and your landlord have some work to do, perhaps you should consider <a href="http://mqmllp.com/"> hiring an attorney to help draft a lease that works for you </a>
+</div><div id='Q-1.1.1.1.1.2.2.2' name='Q-1.1.1.1.1.2.2.2' style='display:none;'>Great! You can file an application with a signed letter of intent, but you will need to get a signed lease before your application gets to the ABCC.
+</div><div id='Q-1.1.1.1.1.2.2.2.1' name='Q-1.1.1.1.1.2.2.2.1' style='display:none;'>GOTO:1.1.1.1.1.1
+</div><div id='Q-1.1.1.1.2' name='Q-1.1.1.1.2' style='display:none;'><a href="http://www.mass.gov/dor/"> Contact the Massachusetts Department of Revenue </a>
+</div><div id='Q-1.1.1.2' name='Q-1.1.1.2' style='display:none;'><a href="http://www.sec.state.ma.us/cor/"> Contact the Massachusetts Secretary of the Commonwealth</a>
+</div><div id='Q-1.1.2' name='Q-1.1.2' style='display:none;'><a href="http://www.sec.state.ma.us/cor/"> Contact the Massachusetts Secretary of the Commonwealth</a>
+</div><div id='Q-1.2' name='Q-1.2' style='display:none;'>Thanks for stopping by!</div><div id='A-1.1' name='A-1.1' style='display:none;'>Yes
+</div><div id='A-href-1.1' name='A-href-1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1' name='A-target-1.1' style='display:none;'></div><div id='X-1.1' name='X-1.1' style='display:none;'></div><div id='A-1.1.1' name='A-1.1.1' style='display:none;'> Yes
+</div><div id='A-href-1.1.1' name='A-href-1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1' name='A-target-1.1.1' style='display:none;'></div><div id='X-1.1.1' name='X-1.1.1' style='display:none;'></div><div id='A-1.1.1.1' name='A-1.1.1.1' style='display:none;'> Yes
+</div><div id='A-href-1.1.1.1' name='A-href-1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1' name='A-target-1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1' name='X-1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1' name='A-1.1.1.1.1' style='display:none;'> Yes
+</div><div id='A-href-1.1.1.1.1' name='A-href-1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1' name='A-target-1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1' name='X-1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1' name='A-1.1.1.1.1.1' style='display:none;'>Yes
+</div><div id='A-href-1.1.1.1.1.1' name='A-href-1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1' name='A-target-1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1' name='X-1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1' name='A-1.1.1.1.1.1.1' style='display:none;'> Yes
+</div><div id='A-href-1.1.1.1.1.1.1' name='A-href-1.1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1' name='A-target-1.1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1.1' name='X-1.1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1.1' name='A-1.1.1.1.1.1.1.1' style='display:none;'>Yes
+</div><div id='A-href-1.1.1.1.1.1.1.1' name='A-href-1.1.1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1.1' name='A-target-1.1.1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1.1.1' name='X-1.1.1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1.1.1' name='A-1.1.1.1.1.1.1.1.1' style='display:none;'>Everybody has filled out the forms, now what do I do?
+</div><div id='A-href-1.1.1.1.1.1.1.1.1' name='A-href-1.1.1.1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1.1.1' name='A-target-1.1.1.1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1.1.1.1' name='X-1.1.1.1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1.1.1.1' name='A-1.1.1.1.1.1.1.1.1.1' style='display:none;'>Now you are almost ready to file your application for a liquor license, we suggest reaching out to an attorney to review your application and make sure you're all set,  <a href="http://www.mqmllp.com/"> maybe take a look at these guys </a>
+</div><div id='A-href-1.1.1.1.1.1.1.1.1.1' name='A-href-1.1.1.1.1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1.1.1.1' name='A-target-1.1.1.1.1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1.1.1.1.1' name='X-1.1.1.1.1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1.2' name='A-1.1.1.1.1.1.1.2' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.1.1.2' name='A-href-1.1.1.1.1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1.2' name='A-target-1.1.1.1.1.1.1.2' style='display:none;'></div><div id='X-1.1.1.1.1.1.1.2' name='X-1.1.1.1.1.1.1.2' style='display:none;'></div><div id='A-1.1.1.1.1.1.2' name='A-1.1.1.1.1.1.2' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.1.2' name='A-href-1.1.1.1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.2' name='A-target-1.1.1.1.1.1.2' style='display:none;'></div><div id='X-1.1.1.1.1.1.2' name='X-1.1.1.1.1.1.2' style='display:none;'></div><div id='A-1.1.1.1.1.2' name='A-1.1.1.1.1.2' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.2' name='A-href-1.1.1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2' name='A-target-1.1.1.1.1.2' style='display:none;'></div><div id='X-1.1.1.1.1.2' name='X-1.1.1.1.1.2' style='display:none;'></div><div id='A-1.1.1.1.1.2.1' name='A-1.1.1.1.1.2.1' style='display:none;'>Yes
+</div><div id='A-href-1.1.1.1.1.2.1' name='A-href-1.1.1.1.1.2.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.1' name='A-target-1.1.1.1.1.2.1' style='display:none;'></div><div id='X-1.1.1.1.1.2.1' name='X-1.1.1.1.1.2.1' style='display:none;'></div><div id='A-1.1.1.1.1.2.2' name='A-1.1.1.1.1.2.2' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.2.2' name='A-href-1.1.1.1.1.2.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.2' name='A-target-1.1.1.1.1.2.2' style='display:none;'></div><div id='X-1.1.1.1.1.2.2' name='X-1.1.1.1.1.2.2' style='display:none;'></div><div id='A-1.1.1.1.1.2.2.1' name='A-1.1.1.1.1.2.2.1' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.2.2.1' name='A-href-1.1.1.1.1.2.2.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.2.1' name='A-target-1.1.1.1.1.2.2.1' style='display:none;'></div><div id='X-1.1.1.1.1.2.2.1' name='X-1.1.1.1.1.2.2.1' style='display:none;'></div><div id='A-1.1.1.1.1.2.2.2' name='A-1.1.1.1.1.2.2.2' style='display:none;'>Yes
+</div><div id='A-href-1.1.1.1.1.2.2.2' name='A-href-1.1.1.1.1.2.2.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.2.2' name='A-target-1.1.1.1.1.2.2.2' style='display:none;'></div><div id='X-1.1.1.1.1.2.2.2' name='X-1.1.1.1.1.2.2.2' style='display:none;'></div><div id='A-1.1.1.1.1.2.2.2.1' name='A-1.1.1.1.1.2.2.2.1' style='display:none;'>Now that I have this signed letter, can I get back to my application?
+</div><div id='A-href-1.1.1.1.1.2.2.2.1' name='A-href-1.1.1.1.1.2.2.2.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.2.2.1' name='A-target-1.1.1.1.1.2.2.2.1' style='display:none;'></div><div id='X-1.1.1.1.1.2.2.2.1' name='X-1.1.1.1.1.2.2.2.1' style='display:none;'></div><div id='A-1.1.1.1.2' name='A-1.1.1.1.2' style='display:none;'>No/not sure/what are taxes?
+</div><div id='A-href-1.1.1.1.2' name='A-href-1.1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.2' name='A-target-1.1.1.1.2' style='display:none;'></div><div id='X-1.1.1.1.2' name='X-1.1.1.1.2' style='display:none;'></div><div id='A-1.1.1.2' name='A-1.1.1.2' style='display:none;'>No/not sure
+</div><div id='A-href-1.1.1.2' name='A-href-1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.2' name='A-target-1.1.1.2' style='display:none;'></div><div id='X-1.1.1.2' name='X-1.1.1.2' style='display:none;'></div><div id='A-1.1.2' name='A-1.1.2' style='display:none;'>No
+</div><div id='A-href-1.1.2' name='A-href-1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.2' name='A-target-1.1.2' style='display:none;'></div><div id='X-1.1.2' name='X-1.1.2' style='display:none;'></div><div id='A-1.2' name='A-1.2' style='display:none;'>No
+</div><div id='A-href-1.2' name='A-href-1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.2' name='A-target-1.2' style='display:none;'></div><div id='X-1.2' name='X-1.2' style='display:none;'></div></div><textarea id="original" name="original" style="display:none;" disabled="disabled"><div id="doc" name="doc" style="display:none;"></div><div id='Q-1' name='Q-1' style='display:none;'>Do you want a liquor license?
+</div><div id='Q-1.1' name='Q-1.1' style='display:none;'>Do you have an entity to hold the license as licensee (Corporation, LLC, Partnership etc.)?
+</div><div id='Q-1.1.1' name='Q-1.1.1' style='display:none;'>Is your entity registered to do business in Massachusetts as either a domestic or foreign entity?
+</div><div id='Q-1.1.1.1' name='Q-1.1.1.1' style='display:none;'>Are you up to date on your taxes to the Department of Revenue?
+</div><div id='Q-1.1.1.1.1' name='Q-1.1.1.1.1' style='display:none;'>Do you have a lease or deed to the premises you intend to use?
+</div><div id='Q-1.1.1.1.1.1' name='Q-1.1.1.1.1.1' style='display:none;'>Do you have floor plans of the premises?
+</div><div id='Q-1.1.1.1.1.1.1' name='Q-1.1.1.1.1.1.1' style='display:none;'>Do you know which individuals will hold a beneficial interest in the License?
+</div><div id='Q-1.1.1.1.1.1.1.1' name='Q-1.1.1.1.1.1.1.1' style='display:none;'>Have each individual fill out the following forms: <a href="http://www.mass.gov/abcc/pdf/coriform.pdf"> ABCC CORI</a>; <a href="http://www.mass.gov/abcc/pdf/forms/personalinfoform.pdf"> ABCC Personal Information Form </a>;<a href="http://www.cityofboston.gov/images_documents/Criminal%20Record%20Information%20Form_fillable_tcm3-19502.pdf"> Boston Licensing Board CORI</a>;<a href="http://www.cityofboston.gov/images_documents/Personal%20Information%20Form%20Fillable%202013_tcm3-46630.pdf"> Boston Licensing Board Personal Information Form </a>
+</div><div id='Q-1.1.1.1.1.1.1.1.1' name='Q-1.1.1.1.1.1.1.1.1' style='display:none;'><a href="http://www.mass.gov/abcc/pdf/forms/retail/reta_new.pdf"> Start filling out the ABCC Application!</a>
+</div><div id='Q-1.1.1.1.1.1.1.2' name='Q-1.1.1.1.1.1.1.2' style='display:none;'>You will need to ascertain which individuals will hold a beneficial interest in the License in order to file a completed application, please come back when you know for certain who these individuals and/or entities will be.
+</div><div id='Q-1.1.1.1.1.1.2' name='Q-1.1.1.1.1.1.2' style='display:none;'>You will need floor plans of the premises for a completed application.  You may neatly <a href="http://www.abcya.com/abcya_paint.htm"> draw your own plans </a> or contact an architect to create plans for you.
+</div><div id='Q-1.1.1.1.1.2' name='Q-1.1.1.1.1.2' style='display:none;'>Do you own the premises?
+</div><div id='Q-1.1.1.1.1.2.1' name='Q-1.1.1.1.1.2.1' style='display:none;'><a href="http://www.masslandrecords.com/suffolk/">Search for your deed in the Suffolk County Registry of Deeds Database</a>
+</div><div id='Q-1.1.1.1.1.2.2' name='Q-1.1.1.1.1.2.2' style='display:none;'>Do you have a signed letter of intent from the landlord?
+</div><div id='Q-1.1.1.1.1.2.2.1' name='Q-1.1.1.1.1.2.2.1' style='display:none;'>Looks like you and your landlord have some work to do, perhaps you should consider <a href="http://mqmllp.com/"> hiring an attorney to help draft a lease that works for you </a>
+</div><div id='Q-1.1.1.1.1.2.2.2' name='Q-1.1.1.1.1.2.2.2' style='display:none;'>Great! You can file an application with a signed letter of intent, but you will need to get a signed lease before your application gets to the ABCC.
+</div><div id='Q-1.1.1.1.1.2.2.2.1' name='Q-1.1.1.1.1.2.2.2.1' style='display:none;'>GOTO:1.1.1.1.1.1
+</div><div id='Q-1.1.1.1.2' name='Q-1.1.1.1.2' style='display:none;'><a href="http://www.mass.gov/dor/"> Contact the Massachusetts Department of Revenue </a>
+</div><div id='Q-1.1.1.2' name='Q-1.1.1.2' style='display:none;'><a href="http://www.sec.state.ma.us/cor/"> Contact the Massachusetts Secretary of the Commonwealth</a>
+</div><div id='Q-1.1.2' name='Q-1.1.2' style='display:none;'><a href="http://www.sec.state.ma.us/cor/"> Contact the Massachusetts Secretary of the Commonwealth</a>
+</div><div id='Q-1.2' name='Q-1.2' style='display:none;'>Thanks for stopping by!</div><div id='A-1.1' name='A-1.1' style='display:none;'>Yes
+</div><div id='A-href-1.1' name='A-href-1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1' name='A-target-1.1' style='display:none;'></div><div id='X-1.1' name='X-1.1' style='display:none;'></div><div id='A-1.1.1' name='A-1.1.1' style='display:none;'> Yes
+</div><div id='A-href-1.1.1' name='A-href-1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1' name='A-target-1.1.1' style='display:none;'></div><div id='X-1.1.1' name='X-1.1.1' style='display:none;'></div><div id='A-1.1.1.1' name='A-1.1.1.1' style='display:none;'> Yes
+</div><div id='A-href-1.1.1.1' name='A-href-1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1' name='A-target-1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1' name='X-1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1' name='A-1.1.1.1.1' style='display:none;'> Yes
+</div><div id='A-href-1.1.1.1.1' name='A-href-1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1' name='A-target-1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1' name='X-1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1' name='A-1.1.1.1.1.1' style='display:none;'>Yes
+</div><div id='A-href-1.1.1.1.1.1' name='A-href-1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1' name='A-target-1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1' name='X-1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1' name='A-1.1.1.1.1.1.1' style='display:none;'> Yes
+</div><div id='A-href-1.1.1.1.1.1.1' name='A-href-1.1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1' name='A-target-1.1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1.1' name='X-1.1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1.1' name='A-1.1.1.1.1.1.1.1' style='display:none;'>Yes
+</div><div id='A-href-1.1.1.1.1.1.1.1' name='A-href-1.1.1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1.1' name='A-target-1.1.1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1.1.1' name='X-1.1.1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1.1.1' name='A-1.1.1.1.1.1.1.1.1' style='display:none;'>Everybody has filled out the forms, now what do I do?
+</div><div id='A-href-1.1.1.1.1.1.1.1.1' name='A-href-1.1.1.1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1.1.1' name='A-target-1.1.1.1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1.1.1.1' name='X-1.1.1.1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1.1.1.1' name='A-1.1.1.1.1.1.1.1.1.1' style='display:none;'>Now you are almost ready to file your application for a liquor license, we suggest reaching out to an attorney to review your application and make sure you're all set,  <a href="http://www.mqmllp.com/"> maybe take a look at these guys </a>
+</div><div id='A-href-1.1.1.1.1.1.1.1.1.1' name='A-href-1.1.1.1.1.1.1.1.1.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1.1.1.1' name='A-target-1.1.1.1.1.1.1.1.1.1' style='display:none;'></div><div id='X-1.1.1.1.1.1.1.1.1.1' name='X-1.1.1.1.1.1.1.1.1.1' style='display:none;'></div><div id='A-1.1.1.1.1.1.1.2' name='A-1.1.1.1.1.1.1.2' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.1.1.2' name='A-href-1.1.1.1.1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.1.2' name='A-target-1.1.1.1.1.1.1.2' style='display:none;'></div><div id='X-1.1.1.1.1.1.1.2' name='X-1.1.1.1.1.1.1.2' style='display:none;'></div><div id='A-1.1.1.1.1.1.2' name='A-1.1.1.1.1.1.2' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.1.2' name='A-href-1.1.1.1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.1.2' name='A-target-1.1.1.1.1.1.2' style='display:none;'></div><div id='X-1.1.1.1.1.1.2' name='X-1.1.1.1.1.1.2' style='display:none;'></div><div id='A-1.1.1.1.1.2' name='A-1.1.1.1.1.2' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.2' name='A-href-1.1.1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2' name='A-target-1.1.1.1.1.2' style='display:none;'></div><div id='X-1.1.1.1.1.2' name='X-1.1.1.1.1.2' style='display:none;'></div><div id='A-1.1.1.1.1.2.1' name='A-1.1.1.1.1.2.1' style='display:none;'>Yes
+</div><div id='A-href-1.1.1.1.1.2.1' name='A-href-1.1.1.1.1.2.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.1' name='A-target-1.1.1.1.1.2.1' style='display:none;'></div><div id='X-1.1.1.1.1.2.1' name='X-1.1.1.1.1.2.1' style='display:none;'></div><div id='A-1.1.1.1.1.2.2' name='A-1.1.1.1.1.2.2' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.2.2' name='A-href-1.1.1.1.1.2.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.2' name='A-target-1.1.1.1.1.2.2' style='display:none;'></div><div id='X-1.1.1.1.1.2.2' name='X-1.1.1.1.1.2.2' style='display:none;'></div><div id='A-1.1.1.1.1.2.2.1' name='A-1.1.1.1.1.2.2.1' style='display:none;'>No
+</div><div id='A-href-1.1.1.1.1.2.2.1' name='A-href-1.1.1.1.1.2.2.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.2.1' name='A-target-1.1.1.1.1.2.2.1' style='display:none;'></div><div id='X-1.1.1.1.1.2.2.1' name='X-1.1.1.1.1.2.2.1' style='display:none;'></div><div id='A-1.1.1.1.1.2.2.2' name='A-1.1.1.1.1.2.2.2' style='display:none;'>Yes
+</div><div id='A-href-1.1.1.1.1.2.2.2' name='A-href-1.1.1.1.1.2.2.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.2.2' name='A-target-1.1.1.1.1.2.2.2' style='display:none;'></div><div id='X-1.1.1.1.1.2.2.2' name='X-1.1.1.1.1.2.2.2' style='display:none;'></div><div id='A-1.1.1.1.1.2.2.2.1' name='A-1.1.1.1.1.2.2.2.1' style='display:none;'>Now that I have this signed letter, can I get back to my application?
+</div><div id='A-href-1.1.1.1.1.2.2.2.1' name='A-href-1.1.1.1.1.2.2.2.1' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.1.2.2.2.1' name='A-target-1.1.1.1.1.2.2.2.1' style='display:none;'></div><div id='X-1.1.1.1.1.2.2.2.1' name='X-1.1.1.1.1.2.2.2.1' style='display:none;'></div><div id='A-1.1.1.1.2' name='A-1.1.1.1.2' style='display:none;'>No/not sure/what are taxes?
+</div><div id='A-href-1.1.1.1.2' name='A-href-1.1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.1.2' name='A-target-1.1.1.1.2' style='display:none;'></div><div id='X-1.1.1.1.2' name='X-1.1.1.1.2' style='display:none;'></div><div id='A-1.1.1.2' name='A-1.1.1.2' style='display:none;'>No/not sure
+</div><div id='A-href-1.1.1.2' name='A-href-1.1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.1.2' name='A-target-1.1.1.2' style='display:none;'></div><div id='X-1.1.1.2' name='X-1.1.1.2' style='display:none;'></div><div id='A-1.1.2' name='A-1.1.2' style='display:none;'>No
+</div><div id='A-href-1.1.2' name='A-href-1.1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.1.2' name='A-target-1.1.2' style='display:none;'></div><div id='X-1.1.2' name='X-1.1.2' style='display:none;'></div><div id='A-1.2' name='A-1.2' style='display:none;'>No
+</div><div id='A-href-1.2' name='A-href-1.2' style='display:none;'>javascript:void('');</div><div id='A-target-1.2' name='A-target-1.2' style='display:none;'></div><div id='X-1.2' name='X-1.2' style='display:none;'></div></textarea><textarea id="transcript" name="transcript" style="display:none;" disabled="disabled"></textarea><div style="float:left;width:100%;margin:15px 0 0px 0;border-top: solid 1px #ddd;"><div id=credits class=credits style="display:none;"><div class=credit_text><p><b>Can you get a liquor license in Boston?</b></p><p>By N.Caezza</p><p>Basic potential liquor license client intake form</p></div></div><p align=center><a href="javascript:void('');" onClick="shoh('credits');">credits</a> | <a href="http://www.qnamarkup.org/" target=_top>code your own</a></p></div></FORM></div></div>
+<script type="text/javascript">
+	var QNum = 0;
+	var Qhtml = "";
+	var Dhtml = "";
+	var label = "";
+	var GOTOfired = 0;
+
+	$("#conversation input").on("keypress", 'form', function (e) {
+    	var code = e.keyCode || e.which;
+    	if (code == 13) {
+        	e.preventDefault();
+        	return false;
+    	}
+	});
+
+	function answerQ(lb,restart) {
+		label = lb;
+		Dhtml = 'D-'+label;
+		Qhtml = 'Q-'+label;
+		var Ahtml = 'A-'+label;
+		var Jhtml = 'J-'+QNum;
+		var Xhtml = 'X-'+label;
+		var Xihtml = 'Xi-'+label;
+		
+		var input_error = 0;
+		if (restart == undefined) {
+			var regexp = new RegExp("\<variable\>");
+			if (document.getElementById(Ahtml).innerHTML.match(regexp)) {
+				document.getElementById(Xihtml).value = document.getElementById(Xihtml).value.replace(/(^\s*|\s*$)/,"");
+				if (document.getElementById(Xihtml).value == "") {
+					input_error = "Your answer appears to be empty.";
+				} else {
+					document.getElementById(Xihtml).value = document.getElementById(Xihtml).value.replace(/</g,"&lt;");
+					document.getElementById(Xihtml).value = document.getElementById(Xihtml).value.replace(/>/g,"&gt;");
+				}
+			} 
+		}
+			
+		if (input_error != 0) {
+			alert(input_error);
+			document.getElementById(Xihtml).focus();			
+		} else {
+			if (restart == undefined) {
+				document.getElementById('QandA').innerHTML += "<div class='frame'><div class='full'><div class='ans_text'>"+document.getElementById(Ahtml).innerHTML+"</div></div><div class='ans_arrow'></div></div></div></div>";
+				// insert answer from button
+				if(document.getElementById(Ahtml).innerHTML != "") { document.getElementById('transcript').value += "USER: "+document.getElementById(Ahtml).innerHTML; }
+				if (document.getElementById('QandA').innerHTML.match(regexp)) {
+				 	var duplicatevars = new RegExp("id=\""+document.getElementById(Xhtml).innerHTML+"(.)*"+document.getElementById(Xhtml).innerHTML+"\"","g");
+					document.getElementById('QandA').innerHTML = document.getElementById('QandA').innerHTML.replace(duplicatevars, "");
+					document.getElementById('QandA').innerHTML = document.getElementById('QandA').innerHTML.replace(/\<variable\>(\<\/variable\>)?/, "<input type=hidden id=\""+document.getElementById(Xhtml).innerHTML+"\" name=\""+document.getElementById(Xhtml).innerHTML+"\" value=\""+document.getElementById(Xihtml).value+"\"/>"+document.getElementById(Xihtml).value);
+					document.getElementById('transcript').value = document.getElementById('transcript').value.replace(/\<variable\>(\<\/variable\>)?/, document.getElementById(Xihtml).value+"\n");
+					var thisvariable = new RegExp("<(X|x)>"+document.getElementById(Xhtml).innerHTML+"<\/(X|x)>","g");
+					document.getElementById('ondeck').innerHTML = document.getElementById('ondeck').innerHTML.replace(thisvariable, document.getElementById(document.getElementById(Xhtml).innerHTML).value);
+					document.getElementById('doc').innerHTML = document.getElementById('doc').innerHTML.replace(thisvariable, document.getElementById(document.getElementById(Xhtml).innerHTML).innerHTML);
+					console.log("thisvariable: "+thisvariable);
+					console.log("Variable name: "+document.getElementById(Xhtml).innerHTML);
+					console.log("Variable value: "+document.getElementById(document.getElementById(Xhtml).innerHTML).value);
+				}
+				document.getElementById('Choices').innerHTML = '';
+				setTimeout(function() {renderQnA(Qhtml,Jhtml,Dhtml,restart)}, 300);
+			} else {
+				document.getElementById('Choices').innerHTML = '';
+				renderQnA(Qhtml,Jhtml,Dhtml,restart);			
+			}
+
+		}
+		
+	}
+
+
+	function renderQnA(Qht,Jht,Dht,restar) {
+		Dhtml = Dht;
+					
+		var GOTOfired = 0;
+		swapGOTO(Qht,Jht);
+
+		if (GOTOfired == 0) {
+			document.getElementById('QandA').innerHTML += "<div id="+Jht+" style=\"float:left;width:100%;height:1px;\">&nbsp;</div>";
+		}
+		document.getElementById('QandA').innerHTML += "<div class='frame'><div class='full'><div class='question_text'>"+ document.getElementById(Qhtml).innerHTML+"</div></div><div class='question_arrow'></div></div>";		
+
+		document.getElementById('QandA').innerHTML = document.getElementById('QandA').innerHTML.replace(/(\<br\>){2}/gi,"</div></div><div class='question_arrow'></div></div></div></div><div class='frame'><div class='full'><div class='question_text'>");
+		document.getElementById('QandA').innerHTML = document.getElementById('QandA').innerHTML.replace(/(\<br\> \<br\>)/gi,"<br><br>");
+
+		// add question 
+		document.getElementById('transcript').value += "BOT: "+ document.getElementById(Qhtml).innerHTML;
+		document.getElementById('transcript').value = document.getElementById('transcript').value.replace(/(\<br\>){2}/gi,"\nBOT: ");
+				
+		if (document.getElementById(Dhtml)) {
+			document.getElementById('doc').innerHTML += document.getElementById(Dhtml).innerHTML;
+		}
+						
+		tmp = getElementsByIdRegExp("div", "A-"+label+"(\\.{1}\\d){1}$");
+		a_href = getElementsByIdRegExp("div", "A-href-"+label+"(\\.{1}\\d){1}$");
+		a_target = getElementsByIdRegExp("div", "A-target-"+label+"(\\.{1}\\d){1}$");
+		tmp_x = getElementsByIdRegExp("div", "X-"+label+"(\\.{1}\\d){1}$");
+		var Xishere = 0;
+		for ( var i = 0; i < tmp.length; i++ ) {
+			var nextlabel = tmp[i].id.substr(2);
+			var Xihtml = 'Xi-'+nextlabel;
+			var regexp = "\<variable\>";
+			var regexp_js = "^javascript:";
+			if (tmp[i].innerHTML.match(regexp)) {
+				document.getElementById('Choices').innerHTML += "<div class=\"xdiv\"><input type=\"text\" id=\""+Xihtml+"\" name=\""+Xihtml+"\" class=\"xinput\" onkeypress=\"{if (event.keyCode==13)answerQ('"+nextlabel+"')}\"/><a href=\"javascript:void('');\" class=\"xbutton\" onClick=\"answerQ('"+nextlabel+"');\"><span class=\"qpad\">Save above text as answer.</span></a></div>";
+				Xishere = Xihtml;
+			} else if (a_href[i].innerHTML.match(regexp_js) && a_href[i].innerHTML != "javascript:void('');") {
+				tmp[i].innerHTML = tmp[i].innerHTML.replace(/(\<br\>){2}/gi,"<br> <br>");
+				var script_call = a_href[i].innerHTML.replace(/^javascript:/gi,"");
+				document.getElementById('Choices').innerHTML += "<a href=\"javascript:void('');\" class=\"qabutton\" onClick=\"answerQ('"+nextlabel+"');"+script_call+"\" "+a_target[i].innerHTML+"><span class=\"qpad\">"+tmp[i].innerHTML+"</span></a>";							
+			} else {
+				tmp[i].innerHTML = tmp[i].innerHTML.replace(/(\<br\>){2}/gi,"<br> <br>");
+				document.getElementById('Choices').innerHTML += "<a href=\""+a_href[i].innerHTML+"\" class=\"qabutton\" onClick=\"answerQ('"+nextlabel+"');\" "+a_target[i].innerHTML+"><span class=\"qpad\">"+tmp[i].innerHTML+"</span></a>";				
+			}
+		}			
+
+		if (restar == undefined) {
+			document.getElementById('Choices').innerHTML += "<a href=\"javascript:void('');\" class=\"qabutton\" onClick=\"startAT('1');\"><span class=\"qpad\">Start over.</span></a>";
+		}
+				
+		if (QNum != 0) { 
+			scroll2Q(Jht);           	
+		} else if (restar != undefined) {
+			window.scrollTo(0,0);
+		}
+		if (Xishere != 0 && window.self == window.top) {
+			console.log("Set focus for: "+Xishere);
+			document.getElementById(Xishere).focus();
+		}
+		console.log("Q#: "+QNum);
+		QNum++;
+			
+	}
+
+	
+	function swapGOTO(QH,JH) {
+		var regex = new RegExp("GOTO:(\d*)(\.\d+)*");
+		if (regex.test(document.getElementById(QH).innerHTML)) {
+			var Qtext = document.getElementById(QH).innerHTML.match(/(GOTO:(\d*)(.\s*\d+)*)/);
+			document.getElementById('QandA').innerHTML += "<div id="+JH+" style=\"float:left;width:100%;height:1px;\">&nbsp;</div>";
+			// Add question
+			// note I added () around the < to avoid a < followed by a ? which causes problems in php
+			var Qtexttrans = document.getElementById(QH).innerHTML.replace(/(<)?GOTO:(\d*)(.\s*\d+)*>?/,"");
+			Qtexttrans = Qtexttrans.replace(/\s*$/,"");
+			if (Qtexttrans != "") {
+				document.getElementById('transcript').value += "BOT: "+Qtexttrans+"\n";
+			}
+			if (document.getElementById(QH).innerHTML.match(/^GOTO:(\d*)(.\s*\d+)*/)) {
+				document.getElementById('QandA').innerHTML += document.getElementById(QH).innerHTML.replace(/(<)?GOTO:(\d*)(.\s*\d+)*>?/,"<"+Qtext+">");
+			} else {
+				document.getElementById('QandA').innerHTML += "<div class='frame'><div class='full'><div class='question_text'>"+ document.getElementById(QH).innerHTML.replace(/(<)?GOTO:(\d*)(.\s*\d+)*>?/,"<"+Qtext+">")+"</div></div><div class='question_arrow'></div></div>";						
+			}
+			// replace GOTO with text
+			label = Qtext[0].replace("GOTO:","");
+			Qhtml = 'Q-'+label;
+			if (document.getElementById(Dhtml)) {
+				document.getElementById('doc').innerHTML += document.getElementById(Dhtml).innerHTML;
+			}
+			Dhtml = 'D-'+label;
+			GOTOfired = 1;
+			swapGOTO(Qhtml,JH);
+		}
+	}
+
+	
+	function scroll2Q(id) {
+		var top = document.getElementById(id).offsetTop; //Getting Y of target element
+		console.log("Jump to Y for ("+id+"): "+top);
+		//adapted from https://github.com/Yappli/smooth-scroll
+		var speed = 800;
+		var moving_frequency = 5; // Affects performance !
+		var hop_count = speed/moving_frequency
+        var getScrollTopDocumentAtBegin = document.documentElement.scrollTop + document.body.scrollTop;
+        var gap = (top - getScrollTopDocumentAtBegin) / hop_count;
+		for(var i = 1; i <= hop_count; i++)
+        {
+        	(function()
+           	{
+           		var hop_top_position = gap*i;
+           	    setTimeout(function(){  window.scrollTo(0, hop_top_position + getScrollTopDocumentAtBegin); }, moving_frequency*i);
+           	 })();
+        }
+	}
+
+	function getElementsByIdIs(selectorTag, name) {
+		var items = [];
+		var myPosts = document.getElementsByTagName(selectorTag);
+			//omitting undefined null check for brevity
+			if (myPosts[0].id == name) {
+				items.push(myPosts[0]);
+			}
+		
+		return items;
+	}
+
+	function getElementsByIdRegExp(selectorTag, expression) {
+		// note you need to escape \ in the expression with \, i.e., \\ = \
+		var regex = new RegExp(expression);
+		var items = [];
+		var myPosts = document.getElementsByTagName(selectorTag);
+		for (var i = 0; i < myPosts.length; i++) {
+			if (regex.test(myPosts[i].id)) {
+				items.push(myPosts[i]);
+			}
+		}
+		
+		return items;
+	}	
+
+	// startAT QnA
+	function startAT(id) {
+		document.getElementById('ondeck').innerHTML = document.getElementById('original').value;
+		document.getElementById('QandA').innerHTML = "";
+		document.getElementById('transcript').value = "";
+		QNum = 0;
+		answerQ(id,'1');
+	}
+		
+	//show funtion
+	function show(id) { 
+   		if (document.getElementById) { // DOM3 = IE5, NS6
+        	document.getElementById(id).style.display = 'block';
+    	} else { 
+        	if (document.layers) {  
+            	document.id.display = 'block';
+        	} else {
+                document.all.id.style.display = 'block';
+        	}
+    	}
+	}
+
+	//hide funtion
+	function hide(id) { 
+    	if (document.getElementById) { // DOM3 = IE5, NS6
+        	document.getElementById(id).style.display = 'none';         
+    	} else { 
+        	if (document.layers) {  
+                document.id.display = 'none';
+        	} else {
+                document.all.id.style.display = 'none';
+        	}
+    	}
+	}
+
+	//show OR hide funtion depends on if element is shown or hidden
+	function shoh(id) { 
+    	if (document.getElementById) { // DOM3 = IE5, NS6
+        	if (document.getElementById(id).style.display == "none"){
+            	document.getElementById(id).style.display = 'block';
+        	} else {
+            	document.getElementById(id).style.display = 'none';         
+        	}   
+    	} else { 
+        	if (document.layers) {  
+            	if (document.id.display == "none"){
+                	document.id.display = 'block';
+            	} else {
+                	document.id.display = 'none';
+            	}
+        	} else {
+            	if (document.all.id.style.visibility == "none"){
+                	document.all.id.style.display = 'block';
+            	} else {
+                	document.all.id.style.display = 'none';
+            	}
+        	}
+    	}
+	}
+
+	function transcript(output) {
+		if (output == 1) {
+			return document.getElementById('transcript').value;
+		} else {
+			var output = document.getElementById('transcript').value.replace(/<[^>]*>/g,"");
+			return output;
+		}
+	}		
+	
+	function doc() {
+		return document.getElementById('doc').innerHTML;
+	}	
+
+	function mail2(to,subject,body) {
+		to = encodeURIComponent(to);
+		subject = encodeURIComponent(subject);
+		body = encodeURIComponent(body);
+		window.location.href = "mailto:"+to+"?subject="+subject+"&body="+body;
+	}
+	
+	function submit2(action,method,docAs,instructions,transcriptAs) {
+		document.FORM.action = action;
+		document.FORM.method = method; 
+		if (docAs) {
+			var doctext = document.createElement("textarea");
+			doctext.style.display ='none';
+			doctext.name= docAs;
+			doctext.value= document.getElementById('doc').innerHTML;
+			document.getElementById('FORM').appendChild(doctext);
+			if (instructions) {
+				var instructtext = document.createElement("textarea");
+				instructtext.type='hidden';
+				instructtext.style.display ='none';
+				instructtext.name= 'i';
+				instructtext.value= instructions;
+				document.getElementById('FORM').appendChild(instructtext);	
+			}
+		}
+		if (transcriptAs) {
+			var ttext = document.createElement("textarea");
+			ttext.type='hidden';
+			ttext.style.display ='none';
+			ttext.name= transcriptAs;
+			ttext.value= document.getElementById('transcript').value;
+			document.getElementById('FORM').appendChild(ttext);
+		}
+		document.getElementById('ondeck').innerHTML = "";
+		document.FORM.submit();
+	}
+
+	// h/t http://runnable.com/U5HC9xtufQpsu5aj/use-javascript-to-save-textarea-as-a-txt-file
+	function save2(filename,content)
+	{
+
+	// I'm using file system support as a proxy for support for this feature. 
+	// Check based on one found at: http://blog.teamtreehouse.com/building-an-html5-text-editor-with-the-filesystem-apis
+	// Handle vendor prefixes.
+	window.requestFileSystem = window.requestFileSystem || 
+							   window.webkitRequestFileSystem;
+	// Check for support.
+	if (window.requestFileSystem) {
+	// content = ID of textarea to save
+	// name = name to save file as, including file extension     
+	// grab the content of the form field and place it into a variable
+	//    var textToWrite = document.getElementById(content).value;
+	//  create a new Blob (html5 magic) that conatins the data from your form feild
+		var textFileAsBlob = new Blob([content], {type:'text/plain'});
+		
+	// Specify the name of the file to be saved
+		var fileNamecontentAs = filename;
+		
+	// Optionally allow the user to choose a file name by providing 
+	// an imput field in the HTML and using the collected data here
+	// var fileNamecontentAs = txtFileName.text;
+
+	// create a link for our script to 'click'
+		var downloadLink = document.createElement("a");
+	//  supply the name of the file (from the var above).
+	// you could create the name here but using a var
+	// allows more flexability later.
+		downloadLink.download = fileNamecontentAs;
+	// provide text for the link. This will be hidden so you
+	// can actually use anything you want.
+		downloadLink.innerHTML = "My Hidden Link";
+		
+	// allow our code to work in webkit & Gecko based browsers
+	// without the need for a if / else block.
+		window.URL = window.URL || window.webkitURL;
+			  
+	// Create the link Object.
+		downloadLink.href = window.URL.createObjectURL(textFileAsBlob);
+	// when link is clicked call a function to remove it from
+	// the DOM in case user wants to save a second file.
+		downloadLink.onclick = destroyClickedElement;
+	// make sure the link is hidden.
+		downloadLink.style.display = "none";
+	// add the link to the DOM
+		document.body.appendChild(downloadLink);
+		
+	// click the new link
+		downloadLink.click();
+	} else {
+		alert('This feature is not supported by your browser.');
+	}
+		
+	}
+
+	function destroyClickedElement(event)
+	{
+	// remove the link from the DOM
+		document.body.removeChild(event.target);
+	}
+
+	// EOF
+
+</script></BODY>
+</HTML>
